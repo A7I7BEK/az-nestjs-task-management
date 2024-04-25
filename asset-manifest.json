@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://A7I7BEK.github.io/az-nestjs-task-management/static/css/main.0b051ba3.chunk.css",
+    "main.js": "https://A7I7BEK.github.io/az-nestjs-task-management/static/js/main.dff76382.chunk.js",
+    "main.js.map": "https://A7I7BEK.github.io/az-nestjs-task-management/static/js/main.dff76382.chunk.js.map",
+    "runtime~main.js": "https://A7I7BEK.github.io/az-nestjs-task-management/static/js/runtime~main.a12cb544.js",
+    "runtime~main.js.map": "https://A7I7BEK.github.io/az-nestjs-task-management/static/js/runtime~main.a12cb544.js.map",
+    "static/js/2.d087f43c.chunk.js": "https://A7I7BEK.github.io/az-nestjs-task-management/static/js/2.d087f43c.chunk.js",
+    "static/js/2.d087f43c.chunk.js.map": "https://A7I7BEK.github.io/az-nestjs-task-management/static/js/2.d087f43c.chunk.js.map",
+    "index.html": "https://A7I7BEK.github.io/az-nestjs-task-management/index.html",
+    "precache-manifest.12c98ee04727078b8687258f67ce71b2.js": "https://A7I7BEK.github.io/az-nestjs-task-management/precache-manifest.12c98ee04727078b8687258f67ce71b2.js",
+    "service-worker.js": "https://A7I7BEK.github.io/az-nestjs-task-management/service-worker.js",
+    "static/css/main.0b051ba3.chunk.css.map": "https://A7I7BEK.github.io/az-nestjs-task-management/static/css/main.0b051ba3.chunk.css.map"
+  }
+}
