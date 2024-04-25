@@ -8,6 +8,11 @@ jobs:
     steps:
       - name: Git Checkout
         uses: actions/checkout@v2
+          
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
 
       - name: Yarn Cache
         uses: c-hive/gha-yarn-cache@v1
@@ -18,7 +23,7 @@ jobs:
       - name: Build React App
         run: yarn build
         env:
-          HTTPS: 'true'
+          HTTPS: "true"
           REACT_APP_BASE_URL: ${{ secrets.REACT_APP_BASE_URL }}
           PUBLIC_URL: ${{ secrets.PUBLIC_URL }}
 
